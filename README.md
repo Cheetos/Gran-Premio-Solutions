@@ -1,3 +1,3 @@
-# Gran-Premio-Fecha-3
+# Gran-Premio-Fecha
 
-Mis soluciones para el concurso regional de ACM ICPC 2020, 3a fecha
+Mis soluciones para el concurso regional de ACM ICPC
